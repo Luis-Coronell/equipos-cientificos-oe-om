@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Si usa este código o estos datos, cítelos así."
+title: "Código y datos de replicación: ¿Diversidad, familiaridad o liderazgo? Diseño de equipos científicos e impacto futuro de la investigación en la interfaz entre orientación emprendedora y orientación al mercado"
+authors:
+  - family-names: Coronell Quintero
+    given-names: Luis Daniel
+    orcid: "https://orcid.org/0009-0009-3294-8502"
+    affiliation: "Universidad Nacional de Colombia, Sede La Paz"
+  - family-names: Montoya Restrepo
+    given-names: Luz Alexandra
+  - family-names: Cordero
+    given-names: Ana Emilia
+license: MIT
+date-released: 2026-11-02

@@ -1,0 +1,9 @@
+# Datos con licencia restringida (exportaciones de WoS y Scopus) y archivos locales
+data/raw/
+data/entrada/
+*.txt
+scopus.csv
+wos.txt
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store

@@ -1,0 +1,8 @@
+pandas
+numpy
+scipy
+statsmodels
+matplotlib
+requests
+rapidfuzz
+# BibFusion (ladmepaz/bibfusion, edición docente 1.0, revisión ffda656) se instala desde la primera celda del cuaderno.
